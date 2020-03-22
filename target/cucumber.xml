@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Title of your feature" name="Title of your scenario outline" time="0">
+<skipped><![CDATA[Given I want to write a step with name......................................undefined
+When I check for the value in step..........................................undefined
+Then I verify the status in step............................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
